@@ -1,0 +1,11 @@
+D:\Software Projects\skills_international_project\bin\Debug\skills_international_project.exe.config
+D:\Software Projects\skills_international_project\bin\Debug\skills_international_project.exe
+D:\Software Projects\skills_international_project\bin\Debug\skills_international_project.pdb
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.csproj.AssemblyReference.cache
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.Login.resources
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.Properties.Resources.resources
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.csproj.GenerateResource.cache
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.csproj.CoreCompileInputs.cache
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.exe
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.pdb
+D:\Software Projects\skills_international_project\obj\Debug\skills_international_project.Register.resources
